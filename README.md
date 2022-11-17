@@ -1,0 +1,1 @@
+# resharper-vs-theme
